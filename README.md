@@ -10,14 +10,20 @@ O sistema permitirá que os usuários se cadastrem fornecendo informações pess
 
 1-PHP
 2-Mysql (Xampp)
-3-JavaScript (Jquery, Ajax, SweetAlerts2)
+3-JavaScript (Jquery, Ajax, SweetAlert2)
 4-Bootstrap V5.0
 
 OBS: Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo index.php.
 
 Caminhos:
 
-SRC
+Pasta: Public
+|
+|-----> CSS (estilo)
+|
+|-----> index.php
+|
+Pasta: SRC
 |
 |-----> CONFIG (conexão com banco de dados)
 |
@@ -25,8 +31,7 @@ SRC
 |
 |-----> JS (contém o AJAX)
 |
-|----->
-|
+|-----> MODULES (Jquery, SweetAlert2)
 
 
 
