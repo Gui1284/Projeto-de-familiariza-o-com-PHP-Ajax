@@ -15,22 +15,16 @@ O sistema permitirá que os usuários se cadastrem fornecendo informações pess
 
 OBS: Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo index.php.
 
-Caminhos:
+Caminhos das pastas:
 
 Pasta: Public
-|
 |-----> CSS (estilo)
-|
 |-----> index.php
-|
+
 Pasta: SRC
-|
 |-----> CONFIG (conexão com banco de dados)
-|
 |-----> CONTROLLER (Insert, Select, Delete)
-|
 |-----> JS (contém o AJAX)
-|
 |-----> MODULES (Jquery, SweetAlert2)
 
 
