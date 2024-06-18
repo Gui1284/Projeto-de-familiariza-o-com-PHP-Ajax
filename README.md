@@ -12,7 +12,8 @@ O sistema permitirá que os usuários se cadastrem fornecendo informações pess
 -  JavaScript (Jquery, Ajax, SweetAlert2)
 -  Bootstrap V5.0
 
-OBS: Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo **index.php**.
+> [!NOTE]
+>Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo **index.php**.
 
 
 
