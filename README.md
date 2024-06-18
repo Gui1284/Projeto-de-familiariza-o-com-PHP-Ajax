@@ -1,4 +1,4 @@
---> Projeto de Cadastro de Usuários
+## Projeto de Cadastro de Usuários
 
 --> Objetivo:
 Este projeto tem como objetivo principal a criação de um sistema de cadastro de usuários para fins de estudo e aprendizado. Ele foi desenvolvido com o propósito de praticar e aprimorar habilidades de programação.
