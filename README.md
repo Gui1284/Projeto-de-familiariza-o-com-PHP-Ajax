@@ -1,12 +1,11 @@
 ## Projeto de Cadastro de Usuários
-
---> Objetivo:
+- Objetivo:
 Este projeto tem como objetivo principal a criação de um sistema de cadastro de usuários para fins de estudo e aprendizado. Ele foi desenvolvido com o propósito de praticar e aprimorar habilidades de programação.
 
---> Descrição do Projeto:
+- Descrição do Projeto:
 O sistema permitirá que os usuários se cadastrem fornecendo informações pessoais básicas, como nome e idade. Além disso, será possível exluir e visualizar os registros de usuários.
 
---> Tecnologias usadas:
+## Tecnologias usadas:
 
 1-PHP
 2-Mysql (Xampp)
