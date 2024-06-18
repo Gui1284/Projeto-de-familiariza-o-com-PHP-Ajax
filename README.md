@@ -12,19 +12,7 @@ O sistema permitirá que os usuários se cadastrem fornecendo informações pess
 -  JavaScript (Jquery, Ajax, SweetAlert2)
 -  Bootstrap V5.0
 
-OBS: Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo index.php.
-
-Caminhos das pastas:
-
-Pasta: Public
-|-----> CSS (estilo)
-|-----> index.php
-
-Pasta: SRC
-|-----> CONFIG (conexão com banco de dados)
-|-----> CONTROLLER (Insert, Select, Delete)
-|-----> JS (contém o AJAX)
-|-----> MODULES (Jquery, SweetAlert2)
+OBS: Codigo vai com backup do banco de dados usado no projeto, para executar o projeto entre na pasta PUBLIC, será o arquivo 'index.php'.
 
 
 
